@@ -39,6 +39,7 @@
     "react-hook-form": "^7.50.1",
     "resend": "^2.0.0",
     "sonner": "^1.4.0",
+    "swiper": "^11.0.6",
     "tailwind-merge": "^2.2.1",
     "tailwindcss-animate": "^1.0.7",
     "zod": "^3.22.4"
