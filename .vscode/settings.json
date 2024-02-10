@@ -1,3 +1,13 @@
 {
-  "cSpell.words": ["hippothesis", "nour", "Swiper"]
+  "cSpell.words": [
+    "copyfiles",
+    "hippothesis",
+    "hookform",
+    "nour",
+    "payloadcms",
+    "Swiper",
+    "TRPC",
+    "zustand"
+  ],
+  "githubPullRequests.ignoredPullRequestBranches": ["main"]
 }
