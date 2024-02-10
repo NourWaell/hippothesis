@@ -3,10 +3,12 @@ const nextConfig = {
   images: {
     remotePatterns: [
       {
-        hostname: "localhost",
-        pathname: "**",
         protocol: "http",
-        port: "3000",
+        hostname: "localhost",
+      },
+      {
+        protocol: "https",
+        hostname: "https://hippothesis.vercel.app",
       },
     ],
   },
