@@ -8,7 +8,7 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "https://hippothesis.vercel.app",
+        hostname: "https://hippothesis.up.railway.app",
       },
     ],
   },
