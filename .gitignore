@@ -6,6 +6,9 @@
 .pnp.js
 .yarn/install-state.gz
 
+# vscode
+/.vscode
+
 # testing
 /coverage
 
@@ -15,6 +18,7 @@
 
 # production
 /build
+/dist
 
 # misc
 .DS_Store
