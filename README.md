@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Hippothesis
 
-First, run the development server:
+Hippothesis is a digital marketplace platform that allows users to buy and sell digital assets. Whether you're looking to purchase high-quality digital products or become a seller and showcase your own creations, Hippothesis provides a seamless and user-friendly experience.
 
-```bash
-npm run dev.
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Buy Digital Assets: Browse through a diverse collection of digital assets including templates, graphics, audio, and more. Find the perfect assets for your projects or personal use.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Sell Your Own Assets: Showcase your creative talent by becoming a seller on Hippothesis. Upload and list your digital products for other users to discover and purchase.
 
-## Learn More
+- User-friendly Interface: Enjoy a sleek and intuitive interface designed to enhance your browsing and shopping experience.
 
-To learn more about Next.js, take a look at the following resources:
+- Secure Transactions: With integrated payment processing using Stripe, rest assured that your transactions on Hippothesis are safe and secure.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Easy Content Management: Utilize Payload CMS to efficiently manage your digital assets, listings, and other content on the platform.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Responsive Design: Access Hippothesis seamlessly from any device, thanks to its responsive design built using Next.js and Tailwind CSS.
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Tech Stack
+
+- Next.js 14
+
+- Payload CMS
+
+- tRPC
+
+- Shadcn
+
+- TailwindCSS
+
+- Express
+
+- Nodemailer
+
+- React Hook Form
+
+- Sonner
+
+- Swiper
+
+- Zod
+
+- Stripe
+
+- TypeScript
+
+
+## Demo
+
+[https://hippothesis.up.railway.app]
+
