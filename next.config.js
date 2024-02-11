@@ -9,7 +9,6 @@ const nextConfig = {
       {
         protocol: "https",
         hostname: "hippothesis.up.railway.app",
-        pathname: "/sell/media/**",
       },
     ],
   },
