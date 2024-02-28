@@ -25,6 +25,7 @@ const CartItem = ({ product }: { product: Product }) => {
                 alt={product.name}
                 className="absolute object-cover"
                 fill
+                referrerPolicy="no-referrer"
               />
             ) : (
               <div className="flex h-full items-center justify-center bg-secondary">

@@ -56,6 +56,7 @@ const ThankYouPage = async ({ searchParams }: IThankYouPage) => {
           src="/checkout-thank-you.jpg"
           alt="Thank you for your order"
           fill
+          referrerPolicy="no-referrer"
           className="h-full w-full object-cover object-center"
         />
       </div>
@@ -115,6 +116,7 @@ const ThankYouPage = async ({ searchParams }: IThankYouPage) => {
                             src={image.url}
                             alt={product.name}
                             fill
+                            referrerPolicy="no-referrer"
                             className="flex-none rounded-md bg-gray-100 object-cover object-center"
                           />
                         ) : null}

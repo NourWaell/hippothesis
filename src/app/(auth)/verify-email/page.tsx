@@ -25,6 +25,7 @@ const VerifyEmailPage = ({ searchParams }: IVerifyEmailPage) => {
                 src="/hippo-email-sent.png"
                 alt="hippo telling about the email that was sent"
                 fill
+                referrerPolicy="no-referrer"
               />
             </div>
             <h3 className="font-semibold text-2xl">Check your email</h3>

@@ -64,6 +64,7 @@ const Page = () => {
                     alt="Empty Cart"
                     fill
                     loading="eager"
+                    referrerPolicy="no-referrer"
                   />
                 </div>
                 <h3 className="font-semibold text-2xl">Your cart is empty</h3>
@@ -95,6 +96,7 @@ const Page = () => {
                               src={image.url}
                               alt={product.name}
                               fill
+                              referrerPolicy="no-referrer"
                               className="h-full w-full rounded-md object-cover object-center sm:h-48 sm:w-48"
                             />
                           ) : null}

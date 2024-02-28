@@ -101,6 +101,7 @@ const Cart = () => {
                 alt="Empty cart image of hippo"
                 fill
                 aria-hidden="true"
+                referrerPolicy="no-referrer"
               />
             </div>
             <div className="text-xl font-semibold">Your cart is empty</div>

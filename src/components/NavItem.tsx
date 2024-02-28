@@ -61,6 +61,7 @@ const NavItem = ({ category, handleOpen, isAnyOpen, isOpen }: INavItem) => {
                           alt="Product category image"
                           fill
                           className="object-cover object-center"
+                          referrerPolicy="no-referrer"
                         />
                       </div>
 
